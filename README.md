@@ -17,5 +17,5 @@ Please note that this script was all about functionality not undetectablitiy, i 
 Some KZ servers have their own anti scripting measures, test with a vpn first!
 
 Disclaimer: The AhkHider is not made by me, just minor optimization for my script, its published here so you dont have to do a seperate search.
-(The original creator is named down below and in the code!)
+(The original creator is named down below and in the code!) 
 credit:https://www.unknowncheats.me/forum/apex-legends/324053-autohotkey-script-hider.html
