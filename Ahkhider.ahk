@@ -14,7 +14,6 @@
 		of AutoHotkey or if you're using a x86 bit OS and the 32 bit version of AutoHotkey.
 		This does not work if you have a x64 bit OS but use 32 bit AHK (and vice versa) !!!
 
-		Source: https://www.unknowncheats.me/forum/apex-legends/324053-autohotkey-script-hider.html
 		Creator: https://www.unknowncheats.me/forum/members/2636429.html
 */
 
