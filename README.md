@@ -1,6 +1,5 @@
 # CSGO KZ Multiscript
-A small weekend project of mine 
-(since I had no prior knowledge of writing macros, feel free to make improvements)
+A small weekend project of mine, since I had no prior knowledge of writing macros, feel free to make improvements
 
 # Instructions:
 1. Download AutoHotkey (https://www.autohotkey.com/)
