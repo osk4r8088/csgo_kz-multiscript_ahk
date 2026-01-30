@@ -14,9 +14,9 @@ hold "mouse4" for autostrafe
 
 # Disclaimer:
 Please note that my goal with this script was mainly functionality not undetectability, I strongly advise you to not use this on official servers and rather to break your unit pr on your favorite kz server or for testing purposes in your Hammer World Editor map.
-Some KZ servers have their own anti scripting measures, test it with a vpn first!
+Some KZ servers have their own anti scripting measures, if a plugin is active that monitors Mouse and Keyboard events sent from windows, hiding the proccess will not help, test it with a VPN first!
 
-The AhkHider is not made by me, I just made some minor optimizations for my script, its published here so you dont have to do a seperate search.
-The original creator is credited down below and in the code!
+The AhkHider is not made by me, its published here so you dont have to do a seperate search.
+The original creator is credited in the code!
 
-https://www.unknowncheats.me/forum/apex-legends/324053-autohotkey-script-hider.html
+
