@@ -12,10 +12,10 @@ keybinds:
 hold "space" for bunnyhop
 hold "mouse4" for autostrafe
 
-infos:
-Please note that this script was all about functionality not undetectablitiy, i don't take any responsibility should a ban occur. 
+Please note that my goal with this script was mainly functionality not undetectability, I strongly advise you to not use this on official servers and rather to break your unit pr on your favorite kz server or for testing purposes in your Hammer World Editor map.
 Some KZ servers have their own anti scripting measures, test with a vpn first!
 
 Disclaimer: The AhkHider is not made by me, just minor optimization for my script, its published here so you dont have to do a seperate search.
 (The original creator is named down below and in the code!) 
-credit:https://www.unknowncheats.me/forum/apex-legends/324053-autohotkey-script-hider.html
+
+credit: https://www.unknowncheats.me/forum/apex-legends/324053-autohotkey-script-hider.html
