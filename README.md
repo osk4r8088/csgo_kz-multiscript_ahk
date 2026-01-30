@@ -10,6 +10,7 @@ A small weekend project of mine
 
 # Keybinds:
 hold "space" for bunnyhop
+
 hold "mouse4" for autostrafe
 
 # Disclaimer:
