@@ -11,7 +11,7 @@ A small weekend project of mine
 # Keybinds:
 hold "space" for bunnyhop
 
-hold "mouse4" for autostrafe
+hold "mouse4" for autostrafe (crouching not included since timing is based on jump duration)
 
 # Disclaimer:
 Please note that my goal with this script was mainly functionality not undetectability, I strongly advise you to not use this on official servers and rather to break your unit pr on your favorite kz server or for testing purposes in your Hammer World Editor map.
